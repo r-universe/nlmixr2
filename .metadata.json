@@ -1,0 +1,34 @@
+[
+  {
+    "package": "dparser",
+    "oncran": true
+  },
+  {
+    "package": "lotri",
+    "oncran": true
+  },
+  {
+    "package": "nlmixr2",
+    "oncran": true
+  },
+  {
+    "package": "nlmixr2data",
+    "oncran": true
+  },
+  {
+    "package": "nlmixr2est",
+    "oncran": true
+  },
+  {
+    "package": "nlmixr2extra",
+    "oncran": true
+  },
+  {
+    "package": "nlmixr2plot",
+    "oncran": true
+  },
+  {
+    "package": "rxode2",
+    "oncran": true
+  }
+]

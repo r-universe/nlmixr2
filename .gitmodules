@@ -3,3 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dparser"]
+	path = dparser
+	url = https://github.com/nlmixr2/dparser-r
+	shallow = true
+	registered = true
+[submodule "lotri"]
+	path = lotri
+	url = https://github.com/nlmixr2/lotri
+	shallow = true
+	registered = true
+[submodule "nlmixr2"]
+	path = nlmixr2
+	url = https://github.com/nlmixr2/nlmixr2
+	shallow = true
+	registered = true
+[submodule "nlmixr2data"]
+	path = nlmixr2data
+	url = https://github.com/nlmixr2/nlmixr2data
+	shallow = true
+	registered = true
+[submodule "nlmixr2est"]
+	path = nlmixr2est
+	url = https://github.com/nlmixr2/nlmixr2est
+	shallow = true
+	registered = true
+[submodule "nlmixr2extra"]
+	path = nlmixr2extra
+	url = https://github.com/nlmixr2/nlmixr2extra
+	shallow = true
+	registered = true
+[submodule "nlmixr2plot"]
+	path = nlmixr2plot
+	url = https://github.com/nlmixr2/nlmixr2plot
+	shallow = true
+	registered = true
+[submodule "rxode2"]
+	path = rxode2
+	url = https://github.com/nlmixr2/rxode2
+	shallow = true
+	registered = true
