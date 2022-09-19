@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "lotri",
-    "oncran": true
-  },
-  {
     "package": "nlmixr2",
     "oncran": true
   },
