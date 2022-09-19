@@ -8,6 +8,11 @@
 	url = https://github.com/nlmixr2/dparser-r
 	shallow = true
 	registered = true
+[submodule "lotri"]
+	path = lotri
+	url = https://github.com/nlmixr2/lotri
+	shallow = true
+	registered = true
 [submodule "nlmixr2"]
 	path = nlmixr2
 	url = https://github.com/nlmixr2/nlmixr2
