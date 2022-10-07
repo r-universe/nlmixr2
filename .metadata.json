@@ -34,5 +34,9 @@
   {
     "package": "rxode2ll",
     "oncran": true
+  },
+  {
+    "package": "rxode2parse",
+    "oncran": true
   }
 ]

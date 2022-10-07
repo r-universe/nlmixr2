@@ -48,3 +48,8 @@
 	url = https://github.com/nlmixr2/rxode2ll
 	shallow = true
 	registered = true
+[submodule "rxode2parse"]
+	path = rxode2parse
+	url = https://github.com/nlmixr2/rxode2parse
+	shallow = true
+	registered = true
