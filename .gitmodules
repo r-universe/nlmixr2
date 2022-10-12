@@ -53,3 +53,8 @@
 	url = https://github.com/nlmixr2/rxode2parse
 	shallow = true
 	registered = true
+[submodule "rxode2random"]
+	path = rxode2random
+	url = https://github.com/nlmixr2/rxode2random
+	shallow = true
+	registered = true

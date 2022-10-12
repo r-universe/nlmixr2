@@ -38,5 +38,9 @@
   {
     "package": "rxode2parse",
     "oncran": true
+  },
+  {
+    "package": "rxode2random",
+    "oncran": true
   }
 ]
