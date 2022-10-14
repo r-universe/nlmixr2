@@ -43,6 +43,11 @@
 	url = https://github.com/nlmixr2/rxode2
 	shallow = true
 	registered = true
+[submodule "rxode2et"]
+	path = rxode2et
+	url = https://github.com/nlmixr2/rxode2et
+	shallow = true
+	registered = true
 [submodule "rxode2ll"]
 	path = rxode2ll
 	url = https://github.com/nlmixr2/rxode2ll

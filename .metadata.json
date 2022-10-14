@@ -32,6 +32,10 @@
     "oncran": true
   },
   {
+    "package": "rxode2et",
+    "oncran": true
+  },
+  {
     "package": "rxode2ll",
     "oncran": true
   },
