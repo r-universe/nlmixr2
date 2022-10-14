@@ -1,6 +1,27 @@
 [
   {
+    "package": "nlmixr2targets "
+  },
+  {
+    "package": "nlmixr2data",
+    "oncran": true
+  },
+  {
+    "package": "PreciseSums",
+    "oncran": false
+  },
+  {
+    "package": "nlmixr2rpt "
+  },
+  {
+    "package": "nlmixr2lib"
+  },
+  {
     "package": "dparser",
+    "oncran": true
+  },
+  {
+    "package": "nlmixr2data",
     "oncran": true
   },
   {
@@ -8,11 +29,23 @@
     "oncran": true
   },
   {
-    "package": "nlmixr2",
+    "package": "rxode2ll",
     "oncran": true
   },
   {
-    "package": "nlmixr2data",
+    "package": "rxode2parse",
+    "oncran": true
+  },
+  {
+    "package": "rxode2random",
+    "oncran": true
+  },
+  {
+    "package": "rxode2et",
+    "oncran": true
+  },
+  {
+    "package": "rxode2",
     "oncran": true
   },
   {
@@ -28,23 +61,20 @@
     "oncran": true
   },
   {
-    "package": "rxode2",
+    "package": "nlmixr2",
     "oncran": true
   },
   {
-    "package": "rxode2et",
-    "oncran": true
+    "package": "xpose.nlmixr2",
+    "oncran": false
   },
   {
-    "package": "rxode2ll",
-    "oncran": true
+    "package": "nlmixr2targets"
   },
   {
-    "package": "rxode2parse",
-    "oncran": true
+    "package": "nlmixr2rpt"
   },
   {
-    "package": "rxode2random",
-    "oncran": true
+    "package": "babelmixr2"
   }
 ]
