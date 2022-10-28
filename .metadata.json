@@ -75,6 +75,7 @@
     "package": "nlmixr2rpt"
   },
   {
-    "package": "babelmixr2"
+    "package": "babelmixr2",
+    "oncran": false
   }
 ]
