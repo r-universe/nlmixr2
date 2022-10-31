@@ -14,7 +14,8 @@
     "package": "nlmixr2rpt "
   },
   {
-    "package": "nlmixr2lib"
+    "package": "nlmixr2lib",
+    "oncran": false
   },
   {
     "package": "dparser",
