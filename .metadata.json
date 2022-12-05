@@ -73,7 +73,8 @@
     "package": "nlmixr2targets"
   },
   {
-    "package": "nlmixr2rpt"
+    "package": "nlmixr2rpt",
+    "oncran": false
   },
   {
     "package": "babelmixr2",
