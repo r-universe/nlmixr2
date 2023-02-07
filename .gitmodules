@@ -103,3 +103,8 @@
 	url = https://github.com/nlmixr2/babelmixr2
 	shallow = true
 	registered = true
+[submodule "nonmem2rx"]
+	path = nonmem2rx
+	url = https://github.com/nlmixr2/nonmem2rx
+	shallow = true
+	registered = true

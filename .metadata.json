@@ -79,5 +79,8 @@
   {
     "package": "babelmixr2",
     "oncran": false
+  },
+  {
+    "package": "nonmem2rx"
   }
 ]
