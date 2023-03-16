@@ -3,82 +3,64 @@
     "package": "nlmixr2targets "
   },
   {
-    "package": "nlmixr2data",
-    "oncran": true
+    "package": "nlmixr2data"
   },
   {
-    "package": "PreciseSums",
-    "oncran": false
+    "package": "PreciseSums"
   },
   {
     "package": "nlmixr2rpt "
   },
   {
-    "package": "nlmixr2lib",
-    "oncran": true
+    "package": "nlmixr2lib"
   },
   {
-    "package": "dparser",
-    "oncran": true
+    "package": "dparser"
   },
   {
-    "package": "nlmixr2data",
-    "oncran": true
+    "package": "nlmixr2data"
   },
   {
-    "package": "lotri",
-    "oncran": true
+    "package": "lotri"
   },
   {
-    "package": "rxode2ll",
-    "oncran": true
+    "package": "rxode2ll"
   },
   {
-    "package": "rxode2parse",
-    "oncran": true
+    "package": "rxode2parse"
   },
   {
-    "package": "rxode2random",
-    "oncran": true
+    "package": "rxode2random"
   },
   {
-    "package": "rxode2et",
-    "oncran": true
+    "package": "rxode2et"
   },
   {
-    "package": "rxode2",
-    "oncran": true
+    "package": "rxode2"
   },
   {
-    "package": "nlmixr2est",
-    "oncran": true
+    "package": "nlmixr2est"
   },
   {
-    "package": "nlmixr2extra",
-    "oncran": true
+    "package": "nlmixr2extra"
   },
   {
-    "package": "nlmixr2plot",
-    "oncran": true
+    "package": "nlmixr2plot"
   },
   {
-    "package": "nlmixr2",
-    "oncran": true
+    "package": "nlmixr2"
   },
   {
-    "package": "xpose.nlmixr2",
-    "oncran": false
+    "package": "xpose.nlmixr2"
   },
   {
     "package": "nlmixr2targets"
   },
   {
-    "package": "nlmixr2rpt",
-    "oncran": true
+    "package": "nlmixr2rpt"
   },
   {
-    "package": "babelmixr2",
-    "oncran": false
+    "package": "babelmixr2"
   },
   {
     "package": "nonmem2rx"
