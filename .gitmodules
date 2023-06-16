@@ -3,19 +3,9 @@
 	url = https://github.com/nlmixr2/universe
 	shallow = true
 	branch = HEAD
-[submodule "nlmixr2data"]
-	path = nlmixr2data
-	url = https://github.com/nlmixr2/nlmixr2data
-	shallow = true
-	registered = true
-[submodule "PreciseSums"]
-	path = PreciseSums
-	url = https://github.com/nlmixr2/PreciseSums
-	shallow = true
-	registered = true
-[submodule "nlmixr2lib"]
-	path = nlmixr2lib
-	url = https://github.com/nlmixr2/nlmixr2lib
+[submodule "babelmixr2"]
+	path = babelmixr2
+	url = https://github.com/nlmixr2/babelmixr2
 	shallow = true
 	registered = true
 [submodule "dparser"]
@@ -26,6 +16,61 @@
 [submodule "lotri"]
 	path = lotri
 	url = https://github.com/nlmixr2/lotri
+	shallow = true
+	registered = true
+[submodule "nlmixr2"]
+	path = nlmixr2
+	url = https://github.com/nlmixr2/nlmixr2
+	shallow = true
+	registered = true
+[submodule "nlmixr2data"]
+	path = nlmixr2data
+	url = https://github.com/nlmixr2/nlmixr2data
+	shallow = true
+	registered = true
+[submodule "nlmixr2est"]
+	path = nlmixr2est
+	url = https://github.com/nlmixr2/nlmixr2est
+	shallow = true
+	registered = true
+[submodule "nlmixr2extra"]
+	path = nlmixr2extra
+	url = https://github.com/nlmixr2/nlmixr2extra
+	shallow = true
+	registered = true
+[submodule "nlmixr2lib"]
+	path = nlmixr2lib
+	url = https://github.com/nlmixr2/nlmixr2lib
+	shallow = true
+	registered = true
+[submodule "nlmixr2plot"]
+	path = nlmixr2plot
+	url = https://github.com/nlmixr2/nlmixr2plot
+	shallow = true
+	registered = true
+[submodule "nlmixr2rpt"]
+	path = nlmixr2rpt
+	url = https://github.com/nlmixr2/nlmixr2rpt
+	shallow = true
+	registered = true
+[submodule "nlmixr2targets"]
+	path = nlmixr2targets
+	url = https://github.com/nlmixr2/nlmixr2targets
+	shallow = true
+	registered = true
+[submodule "PreciseSums"]
+	path = PreciseSums
+	url = https://github.com/nlmixr2/PreciseSums
+	shallow = true
+	registered = true
+[submodule "rxode2"]
+	path = rxode2
+	url = https://github.com/nlmixr2/rxode2
+	shallow = true
+	registered = true
+[submodule "rxode2et"]
+	path = rxode2et
+	url = https://github.com/nlmixr2/rxode2et
 	shallow = true
 	registered = true
 [submodule "rxode2ll"]
@@ -43,58 +88,8 @@
 	url = https://github.com/nlmixr2/rxode2random
 	shallow = true
 	registered = true
-[submodule "rxode2et"]
-	path = rxode2et
-	url = https://github.com/nlmixr2/rxode2et
-	shallow = true
-	registered = true
-[submodule "rxode2"]
-	path = rxode2
-	url = https://github.com/nlmixr2/rxode2
-	shallow = true
-	registered = true
-[submodule "nlmixr2est"]
-	path = nlmixr2est
-	url = https://github.com/nlmixr2/nlmixr2est
-	shallow = true
-	registered = true
-[submodule "nlmixr2extra"]
-	path = nlmixr2extra
-	url = https://github.com/nlmixr2/nlmixr2extra
-	shallow = true
-	registered = true
-[submodule "nlmixr2plot"]
-	path = nlmixr2plot
-	url = https://github.com/nlmixr2/nlmixr2plot
-	shallow = true
-	registered = true
-[submodule "nlmixr2"]
-	path = nlmixr2
-	url = https://github.com/nlmixr2/nlmixr2
-	shallow = true
-	registered = true
 [submodule "xpose.nlmixr2"]
 	path = xpose.nlmixr2
 	url = https://github.com/nlmixr2/xpose.nlmixr2
-	shallow = true
-	registered = true
-[submodule "nlmixr2targets"]
-	path = nlmixr2targets
-	url = https://github.com/nlmixr2/nlmixr2targets
-	shallow = true
-	registered = true
-[submodule "nlmixr2rpt"]
-	path = nlmixr2rpt
-	url = https://github.com/nlmixr2/nlmixr2rpt
-	shallow = true
-	registered = true
-[submodule "babelmixr2"]
-	path = babelmixr2
-	url = https://github.com/nlmixr2/babelmixr2
-	shallow = true
-	registered = true
-[submodule "nonmem2rx"]
-	path = nonmem2rx
-	url = https://github.com/nlmixr2/nonmem2rx
 	shallow = true
 	registered = true
