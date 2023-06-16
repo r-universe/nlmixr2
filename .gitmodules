@@ -3,11 +3,6 @@
 	url = https://github.com/nlmixr2/universe
 	shallow = true
 	branch = HEAD
-[submodule "nlmixr2targets "]
-	path = nlmixr2targets 
-	url = https://github.com/nlmixr2/nlmixr2targets
-	shallow = true
-	registered = true
 [submodule "nlmixr2data"]
 	path = nlmixr2data
 	url = https://github.com/nlmixr2/nlmixr2data
@@ -16,11 +11,6 @@
 [submodule "PreciseSums"]
 	path = PreciseSums
 	url = https://github.com/nlmixr2/PreciseSums
-	shallow = true
-	registered = true
-[submodule "nlmixr2rpt "]
-	path = nlmixr2rpt 
-	url = https://github.com/nlmixr2/nlmixr2rpt
 	shallow = true
 	registered = true
 [submodule "nlmixr2lib"]
