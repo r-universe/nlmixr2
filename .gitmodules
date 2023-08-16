@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/nlmixr2/universe
 	branch = HEAD
+[submodule "PreciseSums"]
+	path = PreciseSums
+	url = https://github.com/nlmixr2/PreciseSums
 [submodule "babelmixr2"]
 	path = babelmixr2
 	url = https://github.com/nlmixr2/babelmixr2
@@ -38,9 +41,6 @@
 [submodule "nonmem2rx"]
 	path = nonmem2rx
 	url = https://github.com/nlmixr2/nonmem2rx
-[submodule "PreciseSums"]
-	path = PreciseSums
-	url = https://github.com/nlmixr2/PreciseSums
 [submodule "rxode2"]
 	path = rxode2
 	url = https://github.com/nlmixr2/rxode2
