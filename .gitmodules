@@ -17,9 +17,9 @@
 [submodule "lotri"]
 	path = lotri
 	url = https://github.com/nlmixr2/lotri
-[submodule "monolixr2rx"]
-	path = monolixr2rx
-	url = https://github.com/nlmixr2/monolixr2rx
+[submodule "monolix2rx"]
+	path = monolix2rx
+	url = https://github.com/nlmixr2/monolix2rx
 [submodule "n1qn1"]
 	path = n1qn1
 	url = https://github.com/nlmixr2/n1qn1c
