@@ -56,6 +56,9 @@
 [submodule "rxode2ll"]
 	path = rxode2ll
 	url = https://github.com/nlmixr2/rxode2ll
+[submodule "symengine"]
+	path = symengine
+	url = https://github.com/symengine/symengine.R
 [submodule "xpose.nlmixr2"]
 	path = xpose.nlmixr2
 	url = https://github.com/nlmixr2/xpose.nlmixr2
