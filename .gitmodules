@@ -5,6 +5,9 @@
 [submodule "PreciseSums"]
 	path = PreciseSums
 	url = https://github.com/nlmixr2/PreciseSums
+[submodule "RcppTrust"]
+	path = RcppTrust
+	url = https://github.com/nlmixr2/RcppTrust
 [submodule "babelmixr2"]
 	path = babelmixr2
 	url = https://github.com/nlmixr2/babelmixr2
@@ -53,6 +56,9 @@
 [submodule "rxode2"]
 	path = rxode2
 	url = https://github.com/nlmixr2/rxode2
+[submodule "rxode2lincmt"]
+	path = rxode2lincmt
+	url = https://github.com/nlmixr2/rxode2lincmt
 [submodule "rxode2ll"]
 	path = rxode2ll
 	url = https://github.com/nlmixr2/rxode2ll
