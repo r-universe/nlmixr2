@@ -41,6 +41,9 @@
 [submodule "nlmixr2lib"]
 	path = nlmixr2lib
 	url = https://github.com/nlmixr2/nlmixr2lib
+[submodule "nlmixr2nn"]
+	path = nlmixr2nn
+	url = https://github.com/nlmixr2/nlmixr2nn
 [submodule "nlmixr2plot"]
 	path = nlmixr2plot
 	url = https://github.com/nlmixr2/nlmixr2plot
